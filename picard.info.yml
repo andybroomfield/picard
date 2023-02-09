@@ -1,0 +1,5 @@
+name: 'Picard'
+type: module
+description: 'Make it so...'
+core_version_requirement: ^8 || ^9 || ^10
+package: 'Novelty'
